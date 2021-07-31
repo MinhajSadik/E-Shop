@@ -12,5 +12,6 @@
 
 ![quick-look](https://github.com/MinhajSadik/E-Shop/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-01%20at%2001.45.10.png?raw=true)
 
-![quick-look]()
-![quick-look]()
+![quick-look](https://github.com/MinhajSadik/E-Shop/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-08-01%20at%2001.45.14.png?raw=true)
+
+![quick-look](https://github.com/MinhajSadik/E-Shop/blob/main/images/simulator_screenshot_AF579B7A-7EC6-44BB-845C-859E085E5A9F.png?raw=true)
